@@ -6,7 +6,7 @@ const ProjectPage = () => {
     <Layout>
       <h1>Project Page</h1>
       <p>Here are some links to my works.</p>
-      <ol>
+      <ul>
         <li>
           <a href="https://lutpub.lut.fi/handle/10024/72533" target="_blank" rel="noopener noreferrer">Thesis</a>
         </li>
@@ -25,7 +25,7 @@ const ProjectPage = () => {
         <li>
           <a href="http://contactmemo.apphb.com/" target="_blank" rel="noopener noreferrer">Contact Memo</a>
         </li>
-      </ol>
+      </ul>
     </Layout>
   )
 }
