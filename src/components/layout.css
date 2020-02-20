@@ -8,6 +8,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+body {
+  background-color:rgba(165, 199, 243, 0.699);
+}
+
 article,
 aside,
 details,
